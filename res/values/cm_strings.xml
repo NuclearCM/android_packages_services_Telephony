@@ -19,6 +19,9 @@
     <string name="incall_screen_settings">In-call screen settings</string>
     <string name="show_ssn_label">Event notification</string>
     <string name="show_ssn_summary">Show a notification for various network events related to call handling</string>
+    <string name="incall_echo_cancellation">In-call noise reduction</string>
+    <string name="enable_aec_label">Echo cancellation</string>
+    <string name="enable_aec_summary">Reduce ambient noise for the remote party during voice calls</string>
 
     <!-- Blacklist preferences -->
     <string name="blacklist_title">Blocked caller list</string>
@@ -217,5 +220,5 @@
     <string name="exportAllcontatsFailed">Failed to export all contacts to SIM</string>
     <string name="exportAllcontatsNoContacts">No contacts found to export to SIM</string>
 
-    <string name="msim_mobile_network_settings_title">SIM %d mobile network settings</string>
+    <string name="msim_mobile_network_settings_title">SIM %d cellular network settings</string>
 </resources>
