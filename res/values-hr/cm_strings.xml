@@ -186,4 +186,10 @@
   <!-- Permission to modify network mode via intent -->
   <string name="perm_change_mobile_network">promijeni način mreže</string>
   <string name="perm_change_mobile_network_desc">Dopušta aplikaciji izmijeniti trenutni način mreže.</string>
+  <!-- Mobile network settings, COLP -->
+  <string name="connected_line_identification_title">Identifikacija povezane linije</string>
+  <string name="connected_line_identification_summary">Onemogućite ovu opciju ako se brojevi primatelja ne prikazuju u povijesti poziva</string>
+  <!-- Network mode picker dialog title -->
+  <string name="choose_network_mode_title">Odaberite način rada mreže</string>
+  <string name="choose_network_mode_system_default">Zadana postavka sustava</string>
 </resources>
